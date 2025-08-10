@@ -1,0 +1,82 @@
+{
+  "common": {
+    "loading": "Đang tải...",
+    "error": "Lỗi",
+    "success": "Thành công",
+    "save": "Lưu",
+    "cancel": "Hủy",
+    "delete": "Xóa",
+    "edit": "Chỉnh sửa",
+    "create": "Tạo mới",
+    "update": "Cập nhật",
+    "search": "Tìm kiếm",
+    "filter": "Lọc",
+    "reset": "Đặt lại",
+    "submit": "Gửi",
+    "close": "Đóng",
+    "confirm": "Xác nhận",
+    "yes": "Có",
+    "no": "Không"
+  },
+  "navigation": {
+    "home": "Trang chủ",
+    "dashboard": "Bảng điều khiển",
+    "users": "Người dùng",
+    "profile": "Hồ sơ",
+    "settings": "Cài đặt",
+    "logout": "Đăng xuất"
+  },
+  "auth": {
+    "login": "Đăng nhập",
+    "register": "Đăng ký",
+    "logout": "Đăng xuất",
+    "email": "Email",
+    "password": "Mật khẩu",
+    "confirmPassword": "Xác nhận mật khẩu",
+    "name": "Họ và tên",
+    "forgotPassword": "Quên mật khẩu?",
+    "rememberMe": "Ghi nhớ đăng nhập",
+    "noAccount": "Chưa có tài khoản?",
+    "hasAccount": "Đã có tài khoản?",
+    "signIn": "Đăng nhập",
+    "signUp": "Đăng ký",
+    "welcomeBack": "Chào mừng trở lại!",
+    "createAccount": "Tạo tài khoản của bạn",
+    "loginSuccess": "Đăng nhập thành công!",
+    "logoutSuccess": "Đăng xuất thành công!",
+    "registerSuccess": "Đăng ký thành công!"
+  },
+  "dashboard": {
+    "title": "Bảng điều khiển",
+    "welcome": "Chào mừng trở lại, {{name}}!",
+    "stats": {
+      "totalUsers": "Tổng người dùng",
+      "activeUsers": "Người dùng hoạt động",
+      "totalRevenue": "Tổng doanh thu",
+      "growthRate": "Tỷ lệ tăng trưởng"
+    }
+  },
+  "users": {
+    "title": "Người dùng",
+    "addUser": "Thêm người dùng",
+    "editUser": "Chỉnh sửa người dùng",
+    "deleteUser": "Xóa người dùng",
+    "userDetails": "Chi tiết người dùng",
+    "noUsers": "Không tìm thấy người dùng",
+    "confirmDelete": "Bạn có chắc chắn muốn xóa người dùng này?"
+  },
+  "validation": {
+    "required": "Trường này là bắt buộc",
+    "invalidEmail": "Vui lòng nhập địa chỉ email hợp lệ",
+    "passwordTooShort": "Mật khẩu phải có ít nhất 8 ký tự",
+    "passwordsNotMatch": "Mật khẩu không khớp",
+    "invalidPhone": "Vui lòng nhập số điện thoại hợp lệ"
+  },
+  "errors": {
+    "generic": "Đã xảy ra lỗi không mong muốn",
+    "networkError": "Lỗi mạng. Vui lòng kiểm tra kết nối của bạn.",
+    "unauthorized": "Bạn không có quyền truy cập tài nguyên này",
+    "notFound": "Không tìm thấy tài nguyên được yêu cầu",
+    "serverError": "Lỗi máy chủ nội bộ. Vui lòng thử lại sau."
+  }
+}
